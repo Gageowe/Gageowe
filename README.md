@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 👋 Hi, I’m @Gageowe
+- 👀 I’m interested in synthetic biology, computational tools for synthetic biology, game development, and web development.
+- 🌱 I’m currently learning python, HTML, git
+- 📫 How to reach me - can you message me on here?
 
 <!--
 **Gageowe/Gageowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
